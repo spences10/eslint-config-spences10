@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "Scott Spence <spences10apps@gmail.com> (https://spences10.github.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
 }
