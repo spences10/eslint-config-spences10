@@ -7,7 +7,8 @@ module.exports = {
     sourceType: 'module',
     ecmaFeatures: {
       generators: false,
-      objectLiteralDuplicateProperties: false
+      objectLiteralDuplicateProperties: false,
+      requireReturnForObjectLiteral: true
     }
   },
 
