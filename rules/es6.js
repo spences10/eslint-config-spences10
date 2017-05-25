@@ -7,15 +7,14 @@ module.exports = {
     sourceType: 'module',
     ecmaFeatures: {
       generators: false,
-      objectLiteralDuplicateProperties: false,
-      requireReturnForObjectLiteral: true
+      objectLiteralDuplicateProperties: false
     }
   },
 
   rules: {
     // enforces no braces where they can be omitted
     // http://eslint.org/docs/rules/arrow-body-style
-    'arrow-body-style': ['error', 'as-needed'],
+    'arrow-body-style': ['error', 'never'],
 
     // require parens in arrow function arguments
     'arrow-parens': 'off',

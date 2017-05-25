@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-spences10",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "http://eslint.org/docs/developer-guide/shareable-configs",
   "main": "index.js",
   "scripts": {
