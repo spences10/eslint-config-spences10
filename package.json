@@ -4,7 +4,7 @@
   "description": "http://eslint.org/docs/developer-guide/shareable-configs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "snyk test"
   },
   "author": "Scott Spence <spences10apps@gmail.com> (https://spences10.github.io/)",
   "license": "MIT",
@@ -22,5 +22,8 @@
   },
   "peerDependencies": {
     "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "snyk": "^1.36.2"
   }
 }
