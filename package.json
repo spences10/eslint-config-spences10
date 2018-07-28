@@ -3,9 +3,6 @@
   "version": "0.0.8",
   "description": "http://eslint.org/docs/developer-guide/shareable-configs",
   "main": "index.js",
-  "scripts": {
-    "test": "snyk test"
-  },
   "author": "Scott Spence <spences10apps@gmail.com> (https://spences10.github.io/)",
   "license": "MIT",
   "keywords": [
@@ -22,8 +19,5 @@
   },
   "peerDependencies": {
     "eslint": ">= 3"
-  },
-  "devDependencies": {
-    "snyk": "1.89.1"
   }
 }
