@@ -1,5 +1,6 @@
 # ESLint shareable config
 
-http://eslint.org/docs/developer-guide/shareable-configs
+Completely jacked from Wes Bos' config here:
+https://github.com/wesbos/eslint-config-wesbos
 
-Standard by feross config
+Thanks @WesBos 🙏
