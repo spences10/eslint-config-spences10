@@ -23,7 +23,7 @@ change them.
 - Lints + Fixes inside of html script tags
 - Lints + Fixes React via eslint-config-airbnb
 - You can see all the
-  [rules here](https://github.com/wesbos/eslint-config-wesbos/blob/master/.eslintrc.js) -
+  [rules here](https://github.com/spences10/eslint-config-spences10/blob/master/.eslintrc.js) -
   these generally abide by the code written in my courses. You are
   very welcome to overwrite any of these settings, or just fork the
   entire thing to create your own.
@@ -49,7 +49,7 @@ the setup. You might disagree and that is okay, just don't do it then
 2. Then we need to install everything needed by the config:
 
 ```
-npx install-peerdeps --dev eslint-config-wesbos
+npx install-peerdeps --dev eslint-config-spences10
 ```
 
 3. You can see in your package.json there are now a big list of
@@ -61,7 +61,7 @@ npx install-peerdeps --dev eslint-config-wesbos
 
 ```json
 {
-  "extends": ["wesbos"]
+  "extends": ["spences10"]
 }
 ```
 
@@ -87,7 +87,7 @@ project.
 1. First install everything needed:
 
 ```
-npx install-peerdeps --global eslint-config-wesbos
+npx install-peerdeps --global eslint-config-spences10
 ```
 
 (**note:** npx is not a spelling mistake of **npm**. `npx` comes with
@@ -105,7 +105,7 @@ In your `.eslintrc` file, it should look like this:
 
 ```json
 {
-  "extends": ["wesbos"]
+  "extends": ["spences10"]
 }
 ```
 
@@ -146,7 +146,7 @@ start fresh. Sometimes global modules can goof you up. This will
 remove them all.
 
 ```
-npm remove --global eslint-config-wesbos babel-eslint eslint eslint-config-prettier eslint-config-airbnb eslint-plugin-html eslint-plugin-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react prettier
+npm remove --global eslint-config-spences10 babel-eslint eslint eslint-config-prettier eslint-config-airbnb eslint-plugin-html eslint-plugin-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react prettier
 ```
 
 To do the above for local, omit the `--global` flag.
