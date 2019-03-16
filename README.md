@@ -9,6 +9,10 @@ https://github.com/wesbos/eslint-config-wesbos/blob/master/readme.md
 
 Thanks @WesBos 🙏
 
+# Sweet video detailing Setup!
+
+[ESLint + Prettier + VS Code — The Perfect Setup](https://www.youtube.com/watch?v=lHAeK8t94as)
+
 # No-Sweat™ Eslint and Prettier Setup
 
 These are my settings for ESLint and Prettier
