@@ -1,3 +1,5 @@
+[![npm package v](https://img.shields.io/npm/v/eslint-config-spences10.svg)](https://www.npmjs.org/package/eslint-config-spences10) [![npm package dm](https://img.shields.io/npm/dm/eslint-config-spences10.svg)](https://npmjs.com/package/eslint-config-spences10)
+
 # ESLint shareable config
 
 Completely jacked from Wes Bos' config here:
