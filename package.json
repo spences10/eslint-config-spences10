@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-spences10",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "http://eslint.org/docs/developer-guide/shareable-configs",
   "main": "index.js",
   "author": "Scott Spence <spences10apps@gmail.com> (https://ss10.me/)",
@@ -31,7 +31,7 @@
     "eslint-plugin-import": "2.17.2",
     "eslint-plugin-jsx-a11y": "6.2.1",
     "eslint-plugin-prettier": "3.0.1",
-    "eslint-plugin-react": "7.12.4",
+    "eslint-plugin-react": "7.13.0",
     "eslint-plugin-react-hooks": "1.6.0",
     "prettier": "1.17.0"
   },
