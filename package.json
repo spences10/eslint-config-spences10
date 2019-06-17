@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-spences10",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "http://eslint.org/docs/developer-guide/shareable-configs",
   "main": "index.js",
   "author": "Scott Spence <spences10apps@gmail.com> (https://ss10.me/)",
@@ -23,7 +23,7 @@
     "prettier": "^1.16.4"
   },
   "devDependencies": {
-    "babel-eslint": "10.0.1",
+    "babel-eslint": "10.0.2",
     "eslint": "5.16.0",
     "eslint-config-airbnb": "17.1.0",
     "eslint-config-prettier": "5.0.0",
